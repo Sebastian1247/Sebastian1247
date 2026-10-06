@@ -8,3 +8,4 @@ Este perfil reúne los repositorios de los proyectos y tareas de la maestría, o
 
 ### Tecnologías de Programación
 - [Juego de la Vida](https://github.com/Sebastian1247/Juego_de_la_Vida) - Implementación en Java del Juego de la Vida de Conway.
+- [Juego de Baraja: Blackjack](https://github.com/Sebastian1247/Juego_Baraja) - Implementación en Java del Blackjack para consola, diseñada para incorporar otros juegos de baraja.
